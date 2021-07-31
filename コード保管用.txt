@@ -1,0 +1,20 @@
+//エンディング判定
+function ending (){
+  if (moral>3 || love>3){
+    window.alert('お前はいいあざらしだ');
+  } else if (cowardly>3 || rage>3){
+    window.alert('お前はわるいあざらしだ');
+  } else {
+    window.alert('お前はふつうのあざらしだ');
+  }
+};
+
+
+a.btn-flat
+
+
+  margin: 10px auto;
+  width:50px;
+  background: orange;
+
+https://twitter.com/intent/tweet?button_hashtag=あざらし診断&ref_src=twsrc%5Etfw
